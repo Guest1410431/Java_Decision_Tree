@@ -1,0 +1,5 @@
+Name|Body Temperature|Skin Cover|Live Birth|Aquatic Creature|Aerial Creature|Has Legs|Hibernates|Class
+Gila monster|cold-blooded|scales|no|no|no|yes|yes|no-mammal
+Bear|warm-blooded|fur|yes|no|no|yes|yes|mammal
+Platypus|warm-blooded|fur|no|semi|no|yes|no|mammal
+Fish|cold-blooded|scales|yes|yes|no|no|no|no-mammal
