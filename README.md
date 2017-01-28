@@ -31,7 +31,9 @@ ValueInfo.java
 Condition.java
 * Abstract class for EqualCondition.java and ElseCondition.java
 * Handles the state of the attribute that the tree is developed with.
+
 *EqualCondition.java*
 * Tests equality between two given attribute states
+
 *ElseCondition.java*
 * If the conditions are not equal, the attribute state of the one being tested goes through this class
