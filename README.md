@@ -4,6 +4,8 @@ A machine learning algorithm defined as a Decision Tree based in Java
 
 I started this a few months ago and just finished the final methods.
 
+I am still building up the testing set to prove the prediction rate of the algorithm.
+
 Main.java 
 * This is where the program starts.
 * Creates a new Decision Tree and trains it with the file "Train.psv".
