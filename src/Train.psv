@@ -1,0 +1,12 @@
+Name|Body Temperature|Live Birth|Aquatic Creature|Aerial Creature|Has Legs|Hibernates|Class
+human|warm-blooded|yes|no|no|yes|no|mammal
+python|cold-blooded|no|no|no|no|yes|no-mammal
+salmon|cold-blooded|no|yes|no|no|no|no-mammal
+whale|warm-blooded|yes|yes|no|no|no|no-mammal
+frog|cold-blooded|no|semi|no|yes|yes|no-mammal
+komodo dragon|cold-blooded|no|no|no|yes|no|no-mammal
+bat|warm-blooded|yes|no|yes|yes|yes|mammal
+pigeon|warm-blooded||no|no|yes|yes|no|no-mammal
+cat|warm-blooded|yes|no|no|yes|no|mammal
+salamander|cold-blooded|no|semi|no|yes|yes|no-mammal
+Chicken|warm-blooded|no|no|no|yes|no|no-mammal

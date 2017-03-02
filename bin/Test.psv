@@ -1,0 +1,10 @@
+Name|Body Temperature|Live Birth|Aquatic Creature|Aerial Creature|Has Legs|Hibernates|Class
+Gila monster|cold-blooded|no|no|no|yes|yes|no-mammal
+Bear|warm-blooded|yes|no|no|yes|yes|mammal
+Platypus|warm-blooded|no|semi|no|yes|no|mammal
+Fish|cold-blooded|yes|yes|no|no|no|no-mammal
+leopard shark|cold-blooded|yes|yes|no|no|no|no-mammal
+turtle|cold-blooded|no|semi|no|yes|no|no-mammal
+penguin|warm-blooded|no|semi|no|yes|no|no-mammal
+porcupine|warm-blooded|yes|no|no|yes|yes|mammal
+eel|cold-blooded|no|yes|no|no|no|no-mammal
