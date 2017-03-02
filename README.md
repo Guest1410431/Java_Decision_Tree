@@ -15,7 +15,7 @@ DecisionTree.java
 * Best attribute is decided on by the Entropy Gained if the tree were to split on the attribute.
 * I learned the entropy algorithm from https://www.youtube.com/watch?v=pLzE2Oh9QDI.
 
-Nade.java
+Node.java
 * Holds the information of the attribute that the previous split had.
 * The list forks hold the list of splits below the given node, easier to follow for testing.
 * Leaf nodes are found at the bottom of the tree and are the classifiers.
